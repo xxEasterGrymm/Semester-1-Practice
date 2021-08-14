@@ -34,12 +34,10 @@ int main(void) {
       }
     }
 
-    if(flag == 1)
-    {
+    if(flag == 1) {
       printf("The number is present at position %d", (M + 1));
     }
-    else
-    {
+    else {
       printf("The number is not present.");
     }
 
